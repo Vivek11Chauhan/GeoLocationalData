@@ -14,7 +14,7 @@ This project involves the use of K-Means Clustering to find the best accommodati
 - **Low income students:** In general they pay less on meal out, eat more fruits, more likely to stay away from campus, exercise less, cook more often.
 However the boundaries of these classifications are not very prominent.
 
--  Now we use real time data from REST API (HERE Geo coding API) for any college (KIIT University, Bhubaneshwar in this case) to find accommodation for students around the area.
+-  Now we use real time data from REST API (HERE Geo coding API) for any college (MAIT College, Delhi in this case) to find accommodation for students around the area.
 
 Useful parameters are selected an data cleaning is performed on this data. This data is now clustered using optimal K.
 
