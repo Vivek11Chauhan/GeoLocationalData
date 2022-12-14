@@ -1,6 +1,6 @@
 # Geolocational-Data-Analysis-for-Student-Accommodation
 Exploratory Analysis of Geolocational Data
-This project involves the use of K-Means Clustering to find the best accommodation for students in KIIT University by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location.
+This project involves the use of K-Means Clustering to find the best accommodation for students in MAIT University by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location.
 ## Workflow
 ![image](https://user-images.githubusercontent.com/71730642/179422132-76f0e3da-715d-4d4a-b003-c3eceecec3e0.png)
 
